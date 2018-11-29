@@ -6,7 +6,9 @@ function Guest(name, phone, email, uniqueID ){
     this.uniqueID = uniqueID;
 }
 // creating array of guests
-let guests = new Guest
+let guests = [{}];
+
+
 function reserveTable(){
 
 }
